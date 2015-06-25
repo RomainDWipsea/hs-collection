@@ -1,0 +1,2 @@
+add_gmock_test(CollectionTest CollectionTest.cpp)
+target_link_libraries(CollectionTest libCollection)
